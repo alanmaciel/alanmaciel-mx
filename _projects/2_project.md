@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Process Pro
+description: Enterprise app to collect data from employees and generate documents automatically. 
 img: assets/img/3.jpg
 importance: 2
 category: work

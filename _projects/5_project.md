@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Mall API 
+description: Facebook video game where you can shop from multiple stores with one checkout.
 img: assets/img/1.jpg
 importance: 3
 category: fun

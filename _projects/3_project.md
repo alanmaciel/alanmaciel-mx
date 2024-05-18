@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: School delivery
+description: System to deliver school's kids to their parents like an Automac.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3

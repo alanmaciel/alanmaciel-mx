@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Apartado de salas
+description: App to book meeting rooms for a financial institution building.
 img: assets/img/12.jpg
 importance: 1
 category: work

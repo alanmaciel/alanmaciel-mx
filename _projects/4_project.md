@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Package tracking app
+description: Internal parcel tracking for a national bank.
 img:
 importance: 3
 category: fun

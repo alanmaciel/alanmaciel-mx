@@ -1,8 +1,10 @@
 github_users:
+  - alanmaciel
   - torvalds
   - alshedivat
 
 github_repos:
+  - alanmaciel/dotfiles
   - alshedivat/al-folio
   - twbs/bootstrap
   - jekyll/jekyll

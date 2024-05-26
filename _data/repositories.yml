@@ -1,14 +1,9 @@
 github_users:
   - alanmaciel
   - torvalds
-  - alshedivat
+  - dhh
 
 github_repos:
   - alanmaciel/dotfiles
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rails/rails
+  - torvalds/linux

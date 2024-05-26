@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer working as Tech Lead in <a href='https://reservamossaas.com/'>Reservamos</a>, 
+subtitle: Software engineer currently working as Tech Lead in <a href='https://reservamossaas.com/'>Reservamos</a> , 
 
 profile:
   align: right
@@ -26,4 +26,5 @@ I've been using Ruby ​​since 2006. After discovering Ruby on Rails, I starte
 
 I program mostly in Ruby but I also can do some tricks on Javascript, Python, Elixir, and C/C++.
 
-I'm a computer programmer and a software writer, creative coder, and Scrum Master/Tech Project Manager.
+
+For me writing code is like telling a story, so I consider myself more a software writer than a programmer, currently I'm focused on applying AI to my daily workflow and doing creative coding.

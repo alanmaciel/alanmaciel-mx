@@ -112,8 +112,6 @@
       this.description = ""; // 'A visual overview of neural attention...'
       this.authors = []; // Array of Author(s)
 
-      this.bibliography = new Map();
-      this.bibliographyParsed = false;
       //  {
       //    'gregor2015draw': {
       //      'title': 'DRAW: A recurrent neural network for image generation',
@@ -307,18 +305,6 @@
           return [citationKey, entry];
         })
       );
-    }
-
-    set bibliography(bibliography) {
-      if (bibliography instanceof Map) {
-        this._bibliography = bibliography;
-      } else if (typeof bibliography === "object") {
-        this._bibliography = mapFromObject(bibliography);
-      }
-    }
-
-    get bibliography() {
-      return this._bibliography;
     }
 
     static fromObject(source) {

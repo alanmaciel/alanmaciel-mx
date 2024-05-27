@@ -172,7 +172,7 @@
     },
     {
       "name": "Ruby On Rails Web Development Specialization",
-      "issuer": "Johns Hopkins University)"
+      "issuer": "Coursera - Johns Hopkins University"
     },
     {
       "name": "FCE Certificate in English (ESOL)",
@@ -185,14 +185,6 @@
     {
       "name": "Java Programming",
       "issuer": "Executrain"
-    },
-    {
-      "name": "Microsoft  Programming  MS SQL Server 2000 Database Server",
-      "issuer": "Microsoft"
-    },
-    {
-      "name": "Microsoft Windows NT Server Administration",
-      "issuer": "Microsoft"
     },
     {
       "name": "Certified Scrum Master",
@@ -212,7 +204,7 @@
       "keywords": []
     },
     {
-      "name": "Docker Products",
+      "name": "Docker Dev Containers",
       "level": "",
       "keywords": []
     },
@@ -227,7 +219,7 @@
       "keywords": []
     },
     {
-      "name": "Programming",
+      "name": "Functional Programming",
       "level": "",
       "keywords": []
     },
@@ -247,12 +239,17 @@
       "keywords": []
     },
     {
-      "name": "Linux",
+      "name": "Linux Administration",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Web Design",
+      "name": "Linux Shell Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
       "level": "",
       "keywords": []
     },
@@ -262,7 +259,7 @@
       "keywords": []
     },
     {
-      "name": "AJAX",
+      "name": "Time management",
       "level": "",
       "keywords": []
     },
@@ -282,11 +279,6 @@
       "keywords": []
     },
     {
-      "name": "Web 2.0",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "English",
       "level": "",
       "keywords": []
@@ -298,11 +290,6 @@
     },
     {
       "name": "HTML5",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Appcelerator",
       "level": "",
       "keywords": []
     },
@@ -337,22 +324,12 @@
       "keywords": []
     },
     {
-      "name": "Scrum",
+      "name": "Enterprise Scrum master",
       "level": "",
       "keywords": []
     },
     {
       "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Titanium",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PHP",
       "level": "",
       "keywords": []
     },
@@ -372,7 +349,7 @@
       "keywords": []
     },
     {
-      "name": "github",
+      "name": "Github",
       "level": "",
       "keywords": []
     },
@@ -392,17 +369,12 @@
       "keywords": []
     },
     {
-      "name": "Titanium Certified App Developer",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "REST",
       "level": "",
       "keywords": []
     },
     {
-      "name": "jira",
+      "name": "Jira",
       "level": "",
       "keywords": []
     },
@@ -433,16 +405,6 @@
     },
     {
       "name": "JSON",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Apache",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HAML",
       "level": "",
       "keywords": []
     },

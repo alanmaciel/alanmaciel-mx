@@ -2,7 +2,7 @@
 layout: page
 title: Process Pro
 description: Enterprise app to collect data from employees and generate documents automatically. 
-img: assets/img/3.jpg
+img: 
 importance: 2
 category: work
 giscus_comments: true

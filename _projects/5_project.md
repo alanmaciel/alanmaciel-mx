@@ -2,7 +2,7 @@
 layout: page
 title: Mall API 
 description: Facebook video game where you can shop from multiple stores with one checkout.
-img: assets/img/1.jpg
+img: 
 importance: 3
 category: fun
 ---

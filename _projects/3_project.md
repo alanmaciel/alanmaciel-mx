@@ -2,7 +2,7 @@
 layout: page
 title: School delivery
 description: System to deliver school's kids to their parents like an Automac.
-img: assets/img/7.jpg
+img: 
 redirect: https://unsplash.com
 importance: 3
 category: work

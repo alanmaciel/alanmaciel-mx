@@ -16,7 +16,7 @@ nav_order: 6
 - Ecommerce using Ruby on Rails
 
 ## Python
-- Course 1
-- Course 2
-- Course 3
-
+- Python 101 - Gen 1
+- Python 101 - Gen 2
+- Python 101 - Gen 3
+- Python 101 - Gen 4

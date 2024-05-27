@@ -4,7 +4,7 @@
     "name": "Alan Maciel",
     "label": "Software Engineer",
     "image": "",
-    "url": "https://alanmaciel.mx/cv",
+    "url": "https://www.linkedin.com/in/alanmaciel/",
     "summary": "I'm a Software Engineer based in Mexico.\nMy practice primarily focuses on code, create and maintain scalable software products and apply generative processes using AI.",
     "location": {
       "countryCode": "MX",
@@ -28,14 +28,13 @@
       "name": "Reservamos",
       "position": " Tech Lead",
       "startDate": "2024-03-31",
-      "endDate": "",
       "highlights": [],
       "url": "https://www.linkedin.com/company/reservamos.mx/",
       "location": "Worldwide"
     },
     {
       "name": "Dealerware",
-      "position": "Senior Software Engineer",
+      "position": "Software Engineer II",
       "startDate": "2022-01-31",
       "endDate": "2023-11-30",
       "highlights": [],
@@ -43,8 +42,8 @@
       "location": "Remote"
     },
     {
-      "name": "3Pillar Global",
-      "position": "Technical Lead Manager",
+      "name": "3Pillar Global - formerly Tiempo Development",
+      "position": "Tech Lead",
       "startDate": "2021-01-31",
       "endDate": "2022-04-30",
       "highlights": [],
@@ -52,7 +51,7 @@
       "location": "Global"
     },
     {
-      "name": "United Virtualities | We Are UV - formerly Sawyer Effect",
+      "name": "United Virtualities - formerly Sawyer Effect",
       "position": "Software Engineer",
       "startDate": "2019-08-31",
       "endDate": "2021-01-31",
@@ -89,25 +88,16 @@
     },
     {
       "name": "UST Global",
-      "position": "Tech Lead - Mobile Development Team",
-      "startDate": "2014-05-31",
-      "endDate": "2014-10-31",
-      "highlights": [],
-      "summary": "Mobile Cross-platform Design and Development using Kony and other native technologies. Developing apps for Android, iOS and Blackberry Devices.\n\nProjects:\nGrupo Modelo Mobile App\nhttp://www.gmodelo.mx/",
-      "url": "https://www.linkedin.com/company/ustglobal/"
-    },
-    {
-      "name": "UST Global",
-      "position": "Senior Mobile Software Developer",
+      "position": "Tech Lead",
       "startDate": "2013-12-31",
       "endDate": "2014-10-31",
       "highlights": [],
-      "summary": "Mobile Cross-platform Design and Development using Kony and other native technologies. Developing apps for Android, iOS and Blackberry Devices.\n\nProjects: \n\nGNP Seguros Banamex Insurance mobile app(Android, iOS and BB)\nhttps://www.banamex.com/es/personas/servicios/banca-digital/banamex-movil.html",
+      "summary": "Mobile Cross-platform Design and Development using Kony and other native technologies. Developing apps for Android, iOS and Blackberry Devices.\n\nProjects:\nGrupo Modelo Mobile App\nhttp://www.gmodelo.mx/,\n\nGNP Seguros Banamex Insurance mobile app(Android, iOS and BB)\nhttps://www.banamex.com/es/personas/servicios/banca-digital/banamex-movil.html",
       "url": "https://www.linkedin.com/company/ustglobal/"
     },
     {
       "name": "Ubernetics Agile Software",
-      "position": "Co-Founder - Software developer",
+      "position": "Founder",
       "startDate": "2008-06-01",
       "endDate": "2013-02-28",
       "highlights": [],
@@ -131,7 +121,7 @@
       "position": "Mentor",
       "startDate": "2016-05-31",
       "endDate": "2016-05-31",
-      "summary": null,
+      "summary": "",
       "highlights": [],
       "url": "https://www.linkedin.com/company/9497713"
     },
@@ -140,13 +130,13 @@
       "position": "Mentor",
       "startDate": "2016-10-31",
       "endDate": "2016-10-31",
-      "summary": null,
+      "summary": "",
       "highlights": [],
       "url": "https://www.linkedin.com/company/398488"
     },
     {
       "organization": "AgileVentures.org",
-      "position": "Software Developer Volunteer",
+      "position": "Contributor",
       "startDate": "2018-06-30",
       "endDate": "2018-06-30",
       "summary": "Paironauts project - Elixir",
@@ -158,8 +148,7 @@
       "position": "Guest",
       "startDate": "2012-06-30",
       "endDate": "2012-06-30",
-      "highlights": [],
-      "url": ""
+      "highlights": []
     }
   ],
   "education": [
@@ -167,8 +156,6 @@
       "institution": "Instituto Tecnológico de León",
       "area": "C/C++ programming, databases and Open Systems.",
       "studyType": "Software Engineering",
-      "startDate": "",
-      "endDate": "",
       "score": "Bachelor's Degree",
       "courses": []
     }

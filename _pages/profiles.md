@@ -10,107 +10,81 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: dhh.png
+    image: people/dhh.png
     content: about_dhh.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>David Heinemeier Hansson</p>
   - align: left
-    image: matz.png
+    image: people/matz.png
     content: about_matz.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Yukihiro "Matz" Matsumoto</p>
   - align: right
-    image: mike.png
+    image: people/mike.png
     content: about_mike.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Mike Beedle</p>
   - align: left
-    image: jose.png
+    image: people/jose.png
     content: about_jose.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>José Valim</p>
   - align: right
-    image: dave.png
+    image: people/dave.png
     content: about_dave.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Dave Thomas</p>
   - align: left
-    image: martin.png
+    image: people/martin.png
     content: about_martin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Martin Fowler</p>
   - align: right
-    image: sandy.png
-    content: about_sandy.md
+    image: people/sandi.png
+    content: about_sandi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Sandi Metz</p>
   - align: left
-    image: avdi.png
+    image: people/avdi.png
     content: about_avdi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Avdi Grimm</p>
   - align: right
-    image: chris.png
+    image: people/chris.png
     content: about_chris.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Chris Oliver</p>
   - align: left
-    image: gary.png
+    image: people/gary.png
     content: about_gary.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Gary Bernhardt</p>
   - align: right
-    image: ryan.png
+    image: people/ryan.png
     content: about_ryan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Ryan Bates</p>
   - align: left
-    image: katrina.jpg
+    image: people/katrina.jpg
     content: about_katrina.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Katrina Owen</p>
   - align: right
-    image: jason.png
+    image: people/jason.png
     content: about_jason.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Jason Fried</p>
 ---

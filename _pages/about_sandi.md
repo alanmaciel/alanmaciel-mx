@@ -1,0 +1,1 @@
+Sandi Metz is an American software engineer and author. She is the author of Practical Object-Oriented Design in Ruby. Metz teaches workshops around the country for new and experienced developers, emphasizing good programming habits and practices.

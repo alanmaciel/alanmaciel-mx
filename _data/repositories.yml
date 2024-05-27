@@ -1,9 +1,10 @@
 github_users:
   - alanmaciel
-  - torvalds
-  - dhh
+  # - nyango-star
+  # - torvalds
+  # - dhh
 
 github_repos:
   - alanmaciel/dotfiles
-  - rails/rails
-  - torvalds/linux
+  # - rails/rails
+  # - torvalds/linux

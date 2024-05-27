@@ -20,7 +20,7 @@ nav_order: 6
 - Master in digital business - Tecnologico de Zamora, Generation 2009
 
 ## Course: Python 101
-- Python 101 - Casa Antena Training - first generation Mar 1018
+- Python 101 - Casa Antena Training - first generation Mar 2018
 - Python 101 - Casa Antena Training - second generation Jun 2018
 - Python 101 - Casa Antena Training - third generation Jun 2019
 - Python 101 - Casa Antena Training - fourth generation Oct 2019

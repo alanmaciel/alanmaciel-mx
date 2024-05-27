@@ -1,0 +1,1 @@
+Alan Curtis Kay is an American computer scientist best known for his pioneering work on object-oriented programming and windowing graphical user interface design. At Xerox PARC he led the design and development of the first modern windowed computer desktop interface.

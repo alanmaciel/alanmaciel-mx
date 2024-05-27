@@ -194,7 +194,17 @@
   "publications": [],
   "skills": [
     {
-      "name": "Teamwork and collaboration",
+      "name": "Adaptability",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Project Management",
       "level": "",
       "keywords": []
     },
@@ -204,27 +214,62 @@
       "keywords": []
     },
     {
+      "name": "APIs design and development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Best Practices",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Containerization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Critical thinking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS3",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cucumber",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Design Patterns",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Docker Dev Containers",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Object-Oriented Programming (OOP)",
+      "name": "Elixir",
       "level": "",
       "keywords": []
     },
     {
-      "name": "UI Design",
+      "name": "Enterprise Scrum master",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Product Designa= and Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "APIs design and development",
+      "name": "Fluent English",
       "level": "",
       "keywords": []
     },
@@ -234,7 +279,17 @@
       "keywords": []
     },
     {
-      "name": "Software Implementation",
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Github",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
       "level": "",
       "keywords": []
     },
@@ -244,7 +299,17 @@
       "keywords": []
     },
     {
+      "name": "Jira",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSON",
       "level": "",
       "keywords": []
     },
@@ -254,12 +319,27 @@
       "keywords": []
     },
     {
+      "name": "Linux server administration",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Linux Shell Programming",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Time Management",
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Object-Oriented Programming (OOP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Open Source Advocate",
       "level": "",
       "keywords": []
     },
@@ -274,77 +354,7 @@
       "keywords": []
     },
     {
-      "name": "Results oriented",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Design Patterns",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Best Practices",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Communication",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Adaptability",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Critical thinking",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Work ethic",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Software Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Fluent English B2",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "MySQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML5",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Ruby on Rails",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CSS3",
+      "name": "Product Designa= and Development",
       "level": "",
       "keywords": []
     },
@@ -354,57 +364,12 @@
       "keywords": []
     },
     {
-      "name": "Cucumber",
+      "name": "Python",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Open Source Advocate",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Enterprise Scrum master",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Test Driven Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "RSpec",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Containerization",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Github",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "TDD",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Linux server administration",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Agile Project Management",
+      "name": "Results oriented",
       "level": "",
       "keywords": []
     },
@@ -414,7 +379,17 @@
       "keywords": []
     },
     {
-      "name": "Jira",
+      "name": "RSpec",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby on Rails",
       "level": "",
       "keywords": []
     },
@@ -424,7 +399,47 @@
       "keywords": []
     },
     {
-      "name": "Agile Methodologies",
+      "name": "Software Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Implementation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TDD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork and collaboration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Driven Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "UI Design",
       "level": "",
       "keywords": []
     },
@@ -434,22 +449,7 @@
       "keywords": []
     },
     {
-      "name": "Software Design",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Elixir",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JSON",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Ruby",
+      "name": "Work ethic",
       "level": "",
       "keywords": []
     }

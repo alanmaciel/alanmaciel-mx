@@ -21,7 +21,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Avdi Grimm</p>
-    - align: right
+  - align: right
     image: people/dave.png
     content: about_dave.md
     image_circular: false # crops the image to make it circular

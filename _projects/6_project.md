@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: extra scholar classes
+description: Local School allows her students to sign on classes using this system.
 img:
 importance: 4
 category: fun
